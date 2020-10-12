@@ -16,7 +16,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Grupo #7</h1>
+        <h1>Grupo #7 UMG</h1>
        <a href="Marcas.jsp" class="btn btn-info" role="button">Marcas</a>
        <a href="Proveedores.jsp" class="btn btn-info" role="button">Proveedores</a>
        <a href="Puestos.jsp" class="btn btn-info" role="button">Puestos</a>
