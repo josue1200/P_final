@@ -36,6 +36,6 @@ public class Conexion {
                 System.out.println("Error "+ex.getMessage());
         }
     }
- 
+  
     
 }

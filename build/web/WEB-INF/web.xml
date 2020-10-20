@@ -20,14 +20,6 @@
         <servlet-name>sr_empleados</servlet-name>
         <servlet-class>Controlador.sr_empleados</servlet-class>
     </servlet>
-    <servlet>
-        <servlet-name>sr_productos</servlet-name>
-        <servlet-class>Controlador.sr_productos</servlet-class>
-    </servlet>
-    <servlet>
-        <servlet-name>sr_inicio</servlet-name>
-        <servlet-class>Controlador.sr_inicio</servlet-class>
-    </servlet>
     <servlet-mapping>
         <servlet-name>sr_marcas</servlet-name>
         <url-pattern>/sr_marcas</url-pattern>
@@ -47,14 +39,6 @@
     <servlet-mapping>
         <servlet-name>sr_empleados</servlet-name>
         <url-pattern>/sr_empleados</url-pattern>
-    </servlet-mapping>
-    <servlet-mapping>
-        <servlet-name>sr_productos</servlet-name>
-        <url-pattern>/sr_productos</url-pattern>
-    </servlet-mapping>
-    <servlet-mapping>
-        <servlet-name>sr_inicio</servlet-name>
-        <url-pattern>/sr_inicio</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
